@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juancruz11-afk&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juancruz11-afkO&layout=compact&theme=radical)
 <!--
 **juancruz11-afk/juancruz11-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
